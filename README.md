@@ -6,8 +6,6 @@ This project demo-straights a simple Two Factor authentication React TypeScript 
 
 <img width="489" alt="two-fa-passcode" src="https://user-images.githubusercontent.com/32771159/151399520-674317ee-400a-472e-8008-f46078fdfdc9.PNG">
 
-Generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.17.
-
 ## API Dependancy
 
 Requires json-server running as follows:

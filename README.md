@@ -16,4 +16,4 @@ Requires json-server running as follows:
 
 ## Development server
 
-Once json-server is runnng as above, run `ng serve` for a dev server. The app will automatically reload if you change any of the source files.
+Once json-server is runnng as above, run `npm start` for a dev server. The app will automatically reload if you change any of the source files.

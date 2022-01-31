@@ -1,6 +1,6 @@
 # TwoFa
 
-This project demo-straights a simple Two Factor authentication React TypeScript application as a training exercise.
+This project demo-straights a simple Two Factor authentication React TypeScript application. Developed as a training exercise.
 
 <img width="493" alt="two-fa-tel-select" src="https://user-images.githubusercontent.com/32771159/151399593-42681b06-b936-4df1-9cdd-850b09e2f434.PNG">
 
